@@ -4,3 +4,5 @@ We r Maersk Interns.
 
 Hi! I am Aakriti.
 Hi! I am Sandhya.
+Hi! I am Manaswini.
+Finally we r done with cloaning , push , pull all in just one common repository for all.
