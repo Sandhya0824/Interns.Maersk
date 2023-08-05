@@ -6,7 +6,7 @@
         {
             int m = 10;
             int sum = 0;
-
+            int j = 0;
             for (int i = 0; i < m; i++)
             {
                 sum += i;
