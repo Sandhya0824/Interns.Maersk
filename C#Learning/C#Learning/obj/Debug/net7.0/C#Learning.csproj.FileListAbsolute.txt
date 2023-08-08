@@ -1,0 +1,15 @@
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.exe
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.deps.json
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.runtimeconfig.json
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.pdb
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.csproj.AssemblyReference.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.AssemblyInfoInputs.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.AssemblyInfo.cs
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.csproj.CoreCompileInputs.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\refint\C#Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.pdb
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.genruntimeconfig.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C#Learning\C#Learning\obj\Debug\net7.0\ref\C#Learning.dll

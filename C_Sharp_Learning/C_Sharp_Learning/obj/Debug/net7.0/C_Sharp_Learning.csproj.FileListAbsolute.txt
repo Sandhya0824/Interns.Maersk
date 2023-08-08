@@ -1,0 +1,15 @@
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\bin\Debug\net7.0\C_Sharp_Learning.exe
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\bin\Debug\net7.0\C_Sharp_Learning.deps.json
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\bin\Debug\net7.0\C_Sharp_Learning.runtimeconfig.json
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\bin\Debug\net7.0\C_Sharp_Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\bin\Debug\net7.0\C_Sharp_Learning.pdb
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.csproj.AssemblyReference.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.AssemblyInfoInputs.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.AssemblyInfo.cs
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.csproj.CoreCompileInputs.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\refint\C_Sharp_Learning.dll
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.pdb
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\C_Sharp_Learning.genruntimeconfig.cache
+C:\GitHub\Interns.Maersk.Git\Interns.Maersk\C_Sharp_Learning\C_Sharp_Learning\obj\Debug\net7.0\ref\C_Sharp_Learning.dll
